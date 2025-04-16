@@ -1,0 +1,29 @@
+[
+    {
+        "name": "iphone",
+        "price": 1000,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": 800,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "nokia",
+        "price": 500,
+        "company": "nokia"
+    },
+    {
+        "name": "oneplus",
+        "price": 700,
+        "company": "oneplus"
+    },
+    {
+        "name": "google",
+        "price": 900,
+        "company": "google"
+    }
+]
